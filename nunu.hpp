@@ -6,10 +6,9 @@
 /// @file nunu.hpp
 /// @version 1.0
 ///
-/// Exports data about all fish
+/// Exports data about all nunu fish
 ///
 /// @author @todo yourName <@todo yourMail@hawaii.edu>
 /// @brief  Lab 05a - AnimalFarm2 - EE 205 - Spr 2021
 /// @date   @todo dd_mmm_yyyy
 ///////////////////////////////////////////////////////////////////////////////
-
