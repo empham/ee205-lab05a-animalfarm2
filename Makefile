@@ -19,10 +19,10 @@ main.o:  animal.hpp main.cpp
 animal.o: animal.hpp animal.cpp
 	g++ -c animal.cpp
 	
-mammal.o: mammal.hpp mammal.cpp
+mammal.o: mammal.hpp mammal.cpp animal.hpp
 	g++ -c mammal.cpp
 
-cat.o: cat.cpp cat.hpp
+cat.o: cat.cpp cat.hpp mammal.hpp
 	g++ -c cat.cpp
 
 main: main.cpp *.hpp main.o animal.o mammal.o cat.o 
