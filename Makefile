@@ -6,9 +6,9 @@
 # @file    Makefile
 # @version 1.0
 #
-# @author @todo yourName <@todo yourMail@hawaii.edu>
+# @author Emily Pham <emilyn3@hawaii.edu>
 # @brief  Lab 05a - Animal Farm 2 - EE 205 - Spr 2021
-# @date   @todo dd_mmm_yyyy
+# @date   14_APR_2022
 ###############################################################################
 
 all: main
